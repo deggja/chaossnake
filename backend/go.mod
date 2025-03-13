@@ -4,9 +4,9 @@ go 1.23.3
 
 require (
 	github.com/JoelOtter/termloop v0.0.0-20210806173944-5f7c38744afb
-	k8s.io/api v0.32.2
-	k8s.io/apimachinery v0.32.2
-	k8s.io/client-go v0.32.2
+	k8s.io/api v0.32.3
+	k8s.io/apimachinery v0.32.3
+	k8s.io/client-go v0.32.3
 )
 
 require (
