@@ -6,9 +6,9 @@ toolchain go1.24.1
 
 require (
 	github.com/JoelOtter/termloop v0.0.0-20210806173944-5f7c38744afb
-	k8s.io/api v0.34.2
-	k8s.io/apimachinery v0.34.2
-	k8s.io/client-go v0.34.2
+	k8s.io/api v0.34.3
+	k8s.io/apimachinery v0.34.3
+	k8s.io/client-go v0.34.3
 )
 
 require (
